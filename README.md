@@ -1,4 +1,4 @@
-Use command in terminal:
+Use commands in terminal:
 
 ```shell
 cd 3.2-crud
