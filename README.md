@@ -5,7 +5,7 @@ Use commands in terminal:
 git clone https://github.com/DmitriiButk/Docker-compose-hw.git
 ```
 ```shell
-cd 3.2-crud
+cd Docker-compose-hw\3.2-crud
 ```
 ```shell
 docker-compose up -d --build
