@@ -1,5 +1,9 @@
 Use commands in terminal:
 
+
+```shell
+git clone https://github.com/DmitriiButk/Docker-compose-hw.git
+```
 ```shell
 cd 3.2-crud
 ```
